@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on any project that will help me learn more and have a little fun!
-- 📫 How to reach me salmamohamedsaleh99@gmail.com
+
 
 <!---
 1selmamohamed/1selmamohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
